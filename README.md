@@ -1,2 +1,3 @@
 # Arduino
-Arduino code 
+Code pentru placutele arduino
+
